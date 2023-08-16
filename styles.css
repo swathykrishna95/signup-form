@@ -1,0 +1,20 @@
+.left{
+    background-image: url(./images/yoga.png);
+    background-size: auto;
+    background-repeat: no-repeat;
+}
+
+html{
+    height: 100%;
+}
+
+body{
+    height: 100%;
+}
+
+.container{
+    display: flex;
+    height: 100%;
+}
+
+
